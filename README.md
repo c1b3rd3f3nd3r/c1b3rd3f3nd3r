@@ -1,13 +1,15 @@
-👋 Hi, I’m @datawhispererme!
+👋 Hi, I’m @modelzilla — exploring the frontier where data meets intelligence.
 
-👀 I’m passionate about data science, artificial intelligence, and machine learning. My interests also extend to data mining, and I enjoy using R and Python for data analysis and visualization.
+🧠 I'm learning the foundations of supervised and unsupervised learning, and getting hands-on with model building, evaluation, and interpretation.
 
-🌱 Currently, I’m diving into the Foundations of Probability using Python and R, focusing on statistical theory and simulation techniques.
+🐍 I use Python (with libraries like scikit-learn and pandas) to explore datasets, train models, and better understand how machines can learn from data.
 
-💞️ I’m eager to collaborate on open-source projects related to statistical modeling, simulation, and data analysis.
+🌱 Currently focused on improving my skills through personal projects, courses, and small experiments in predictive modeling.
 
-📫 You can reach me through my YouTube channel (https://www.youtube.com/@datawhispererme) and Instagram profile (https://www.instagram.com/datawhispererme/).
+🤝 Always excited to connect, learn from others, and collaborate on beginner-friendly ML projects.
 
-⚡ Fun fact: I'm a big fan of LoTR and sci-fi movies!
+📫 Find me on YouTube and Instagram, where I share what I'm learning along the way.
 
-I whisper to data, and sometimes, they whisper back. 📊✨
+⚡ Fun fact: I love sci-fi and always wonder what an AI would think of The Matrix.
+
+🔁 I’m teaching machines to learn — and in the process, they’re helping me grow too. 🤖📚

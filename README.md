@@ -30,6 +30,7 @@
 ### 📫 How to reach me
 - **Email:** [laloarauxo@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/eduardo-modelzilla/]
+- **Youtube Channel:** [https://www.youtube.com/@modelzilla-ai]
 
 ---
 

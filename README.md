@@ -1,21 +1,22 @@
 <h1 align="center">Hey there, I'm Eduardo Araujo 👋</h1>
-<h3 align="center">Software Developer | Passionate about AI & Machine Learning</h3>
+<h3 align="center">Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
 
 ---
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,r,mysql,postgres,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=bash,c,lua,python,linux,freebsd,git,github" />
 </div>
 
 ---
 
 ### 🧠 Current Focus
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Backend Development
-- RESTful APIs
-- Open Source Contributions
+- Administração de Sistemas Unix-like (Linux e FreeBSD)
+- Hardening e Segurança de Sistemas
+- Scripting com Bash, Lua e Python
+- Desenvolvimento com C em ambientes Unix
+- Gerenciamento de usuários, permissões e serviços
+- Monitoramento e automação de tarefas no shell
 
 ---
 
@@ -29,9 +30,9 @@
 
 ### 📫 How to reach me
 - **Email:** [laloarauxo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/eduardo-modelzilla/]
-- **Youtube Channel:** [https://www.youtube.com/@modelzilla-ai]
+- **LinkedIn:** [https://www.linkedin.com/in/eduardobash/]
+- **YouTube Channel:** [https://www.youtube.com/@bashbeacon]
 
 ---
 
-> "Any sufficiently advanced technology is indistinguishable from magic" — Arthur C. Clarke.
+> "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke

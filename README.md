@@ -1,15 +1,6 @@
 <div align="center">
-  <table style="border: none;">
-    <tr>
-      <td style="border: none; padding-right: 20px;" valign="middle">
-        <img src="./Lalinho-Sudo.jpg" alt="Eduardo Araujo" width="130" style="border-radius: 10px;" />
-      </td>
-      <td style="border: none;" valign="middle">
-        <h1>Hey there, I'm Eduardo Araujo 👋</h1>
-        <h3>Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
-      </td>
-    </tr>
-  </table>
+  <h1>Hey there, I'm Eduardo Araujo 👋</h1>
+  <h3>Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
 </div>
 
 ---

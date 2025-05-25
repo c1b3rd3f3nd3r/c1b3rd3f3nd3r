@@ -1,6 +1,14 @@
-![Eduardo Araujo](./Lalinho-Sudo.jpg)
-<h1 align="center">Hey there, I'm Eduardo Araujo 👋</h1>
-<h3 align="center">Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
+<table>
+  <tr>
+    <td width="160">
+      <img src="./Lalinho-Sudo.jpg" alt="Eduardo Araujo" width="150" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <h1>Hey there, I'm Eduardo Araujo 👋</h1>
+      <h3>Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
+    </td>
+  </tr>
+</table>
 
 ---
 

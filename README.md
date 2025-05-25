@@ -5,7 +5,7 @@
 
 ### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,c,lua,python,linux,bsd,debian,git,github" />
+  <img src="https://skillicons.dev/icons?i=bash,c,assembly,lua,python,linux,bsd,debian,git,github" />
 </div>
 
 ---

@@ -10,13 +10,15 @@
 
 ---
 
-### 🧠 Current Focus
+- ### 🧠 Current Focus
 - Administração de Sistemas Unix-like (Linux e FreeBSD)
 - Hardening e Segurança de Sistemas
 - Scripting com Bash, Lua e Python
 - Desenvolvimento com C em ambientes Unix
 - Gerenciamento de usuários, permissões e serviços
-- Monitoramento e automação de tarefas no shell
+- Fundamentos de Assembly (x86-64) para análise de baixo nível
+- Compreensão de vulnerabilidades
+- Monitoramento, permissões, usuários e automação no shell
 
 ---
 

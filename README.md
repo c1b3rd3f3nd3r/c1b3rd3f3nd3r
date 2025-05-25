@@ -43,7 +43,7 @@
 
 ### 📫 How to reach me
 - **Email:** [laloarauxo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/eduardobash/]
+- **LinkedIn:** [https://www.linkedin.com/in/ttyOverl0rd/]
 - **YouTube Channel:** [https://www.youtube.com/@bashbeacon]
 
 ---

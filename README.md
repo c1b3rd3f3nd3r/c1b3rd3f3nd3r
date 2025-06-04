@@ -13,15 +13,15 @@
 ---
 
 - ### 🧠 Current Focus
-- Threat Hunting em ambientes Unix-like (Linux e FreeBSD)
-- Análise e investigação de eventos suspeitos e anomalias
-- Hardening e resposta a incidentes em sistemas
-- Scripting para automação de coleta e análise (Bash, Lua, Python)
-- Análise forense básica e interpretação de logs de segurança
-- Desenvolvimento de ferramentas em C para monitoramento e detecção
-- Compreensão profunda de permissões, usuários e comportamento do sistema
-- Fundamentos de Assembly (x86-64) para análise de malware e exploits
-- Integração de dados de segurança para identificar ameaças persistentes
+- Threat Hunting in Unix-like environments (Linux and FreeBSD)
+- Analysis and investigation of suspicious events and anomalies
+- System hardening and incident response
+- Scripting for automation of data collection and analysis (Bash, Lua, Python)
+- Basic forensic analysis and interpretation of security logs
+- Development of monitoring and detection tools in C
+- Deep understanding of permissions, users, and system behavior
+- Fundamentals of Assembly (x86-64) for malware and exploit analysis
+- Integration of security data to identify persistent threats
 
 ---
 

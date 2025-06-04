@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Eduardo Araujo 👋</h1>
-  <h3>Unix-like Systems Enthusiast | Systems Administrator in Training</h3>
+  <h3>Threat Hunting Enthusiast | Unix-like Systems & Security Analyst in Training</h3>
 </div>
 
 ---
@@ -13,14 +13,15 @@
 ---
 
 - ### 🧠 Current Focus
-- Administração de Sistemas Unix-like (Linux e FreeBSD)
-- Hardening e Segurança de Sistemas
-- Scripting com Bash, Lua e Python
-- Desenvolvimento com C em ambientes Unix
-- Gerenciamento de usuários, permissões e serviços
-- Fundamentos de Assembly (x86-64) para análise de baixo nível
-- Compreensão de vulnerabilidades
-- Monitoramento, permissões, usuários e automação no shell
+- Threat Hunting em ambientes Unix-like (Linux e FreeBSD)
+- Análise e investigação de eventos suspeitos e anomalias
+- Hardening e resposta a incidentes em sistemas
+- Scripting para automação de coleta e análise (Bash, Lua, Python)
+- Análise forense básica e interpretação de logs de segurança
+- Desenvolvimento de ferramentas em C para monitoramento e detecção
+- Compreensão profunda de permissões, usuários e comportamento do sistema
+- Fundamentos de Assembly (x86-64) para análise de malware e exploits
+- Integração de dados de segurança para identificar ameaças persistentes
 
 ---
 

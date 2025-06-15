@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Eduardo Araujo 👋</h1>
-  <h3>Threat Hunting Enthusiast | Unix-like Systems & Security Analyst in Training</h3>
+  <h3>Threat Hunting Enthusiast | Unix-like Security Analyst in Training</h3>
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Eduardo Araujo 👋</h1>
-  <h3>Threat Hunting Enthusiast | Unix-like Security Analyst in Training</h3>
+  <h3>Offensive Cybersecurity | Ethical Hacking | Red Team | Adversary Emulation</h3>
 </div>
 
 ---
@@ -13,15 +13,15 @@
 ---
 
 - ### 🧠 Current Focus
-- Threat Hunting in Unix-like environments (Linux and FreeBSD)
-- Analysis and investigation of suspicious events and anomalies
-- System hardening and incident response
-- Scripting for automation of data collection and analysis (Bash, Lua, Python)
-- Basic forensic analysis and interpretation of security logs
-- Development of monitoring and detection tools in C
-- Deep understanding of permissions, users, and system behavior
-- Fundamentals of Assembly (x86-64) for malware and exploit analysis
-- Integration of security data to identify persistent threats
+- Adversary emulation based on real-world threat actors (MITRE ATT&CK)
+- Red Team operations and offensive tradecraft
+- Offensive security in Unix-like environments (Linux and FreeBSD)
+- Vulnerability discovery and exploitation (manual and automated)
+- Custom scripting of offensive tools and payloads (Bash, Lua, Python)
+- Privilege escalation and post-exploitation techniques
+- Development of custom C tooling for enumeration and persistence
+- Fundamentals of exploit development and reverse engineering (x86-64)
+- Evasion techniques and bypassing defensive mechanisms
 
 ---
 
@@ -35,8 +35,8 @@
 
 ### 📫 How to reach me
 - **Email:** [laloarauxo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/ttyOverl0rd/]
-- **YouTube Channel:** [https://www.youtube.com/@bashbeacon]
+- **LinkedIn:** [https://www.linkedin.com/in/c1b3rd3f3nd3r/]
+- **YouTube Channel:** [https://www.youtube.com/@c1b3rd3f3nd3r]
 
 ---
 

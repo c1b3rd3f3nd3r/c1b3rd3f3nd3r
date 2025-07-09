@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, I'm Eduardo Araujo 👋</h1>
-  <h3>Offensive Cybersecurity | Ethical Hacking | Red Team | Adversary Emulation</h3>
+  <h3>Offensive Cybersecurity | Ethical Hacking | Red Team </h3>
 </div>
 
 ---

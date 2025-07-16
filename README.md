@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm Eduardo Araujo 👋</h1>
+  <h1>Hey there, I'm cyb3rl4l0 👋</h1>
   <h3>Offensive Cybersecurity | Ethical Hacking | Red Team </h3>
 </div>
 

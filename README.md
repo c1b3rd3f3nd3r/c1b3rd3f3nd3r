@@ -35,8 +35,8 @@
 
 ### 📫 How to reach me
 - **Email:** [laloarauxo@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/c1b3rd3f3nd3r/]
-- **YouTube Channel:** [https://www.youtube.com/@c1b3rd3f3nd3r]
+- **LinkedIn:** [https://www.linkedin.com/in/cyb3rl4l0/]
+- **YouTube Channel:** [https://www.youtube.com/@cyb3rl4l0]
 
 ---
 

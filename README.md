@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou **Lalo** 👋  
+# Olá, eu sou o **Edgerunner** 👋  
 ### Tecnólogo em Análise e Desenvolvimento de Sistemas • Pós-graduando em Data Science
 
 </div>
@@ -16,11 +16,10 @@
 
 ## 🔬 Áreas de Interesse
 
-- Análise de Dados  
-- Simulação de Processos Estocásticos  
-- Estatística e Probabilidade  
-- Análise Bayesiana  
+- Análise de Dados
 - Machine Learning  
+- Simulação de Processos Estocásticos  
+- Análise Bayesiana  
 
 ---
 
@@ -53,5 +52,5 @@ Aplicar matemática, estatística e computação para desenvolver modelos de an�
 ## 📫 Contato
 
 - Email: laloarauxo@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/  
-- Instagram: https://www.instagram.com/cyberlalo/
+- LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/
+- Instagram: https://www.instagram.com/edgerunner.ml/
